@@ -17,7 +17,7 @@ pipeline {
     stage('build') {
             steps {
                 sh 'echo "${BUILD_ID}"'
-                sh 'jayendra'
+                sh 'jayendraa'
             }
         } 
     stage('Dev-Server') {
